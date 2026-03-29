@@ -1,75 +1,57 @@
 # Hi, I'm Deepthi 👋
 
-I'm building my transition into data science with a focus on **real-world business problems** like credit risk, fraud detection, and customer analytics.
+I'm a data scientist interested in solving real-world business problems, especially in areas like credit risk, fraud detection, and customer analytics.
 
-I’m especially interested in how models actually get used — not just predicting outcomes, but helping make better decisions.
-
----
-
-## 🚀 What I'm working on right now
-
-* Building a **credit risk decision system** (approve / review / decline)
-* Exploring **fraud detection in highly imbalanced data**
-* Working on **customer churn and retention strategies**
+This GitHub is where I document my hands-on work using public datasets to explore how data science can support real decision-making.
 
 ---
 
-## 📌 Featured Work
+## 🚀 What I'm working on
 
-### 🔹 Credit Risk Underwriting Decision Engine *(in progress)*
+### Credit Risk Underwriting Decision Engine
 
-I’m starting with a public dataset and trying to build something close to how a real underwriting system might work.
+I'm currently working on a project to estimate default risk and translate it into simple decisions like approve, review, or decline.
 
-Instead of just training models, I’m focusing on:
-
-* How to set thresholds
-* How decisions change based on risk
-* Tradeoffs between approvals and defaults
+Instead of focusing only on model performance, I'm trying to understand how threshold choices affect approvals and risk.
 
 ---
 
-### 🔹 Fraud Detection *(coming next)*
+### Fraud Detection
 
-I plan to focus on:
-
-* Precision vs recall tradeoffs
-* Reducing false positives
-* Handling very imbalanced data
+Next, I plan to work on fraud detection problems with highly imbalanced data, focusing on precision-recall tradeoffs and reducing false positives.
 
 ---
 
-### 🔹 Customer Churn *(planned)*
+### Customer Churn
 
-Goal is to:
-
-* Identify at-risk customers
-* Segment them
-* Suggest retention strategies
+I’m also planning a churn analysis project to identify at-risk customers and think through possible retention strategies.
 
 ---
 
 ## 🧠 How I approach problems
 
-I usually start simple, then iterate:
+I like to start with the business problem first, then:
 
-* Understand the data first
-* Build a baseline model
-* Improve features before chasing complex models
-* Always think about how the model would actually be used
+* understand the data
+* build a simple baseline
+* improve features before jumping to complex models
+
+I try to focus on how models would actually be used, not just how well they perform.
 
 ---
 
-## 🛠️ Tools I use
+## 🛠️ Tools
 
 Python, SQL, Pandas, Scikit-learn, XGBoost, basic visualization
 
 ---
 
-## 📫 Let’s connect
+## 📫 Connect with me
 
 * LinkedIn: *(add your link here)*
 
 ---
 
-⚠️ Note
-All projects here are built using public datasets. I’m using them to explore real-world problem setups and improve my practical understanding of data science.
+## ⚠️ Note
+
+All projects here use public datasets and reflect my independent work to deepen my understanding of practical data science problems.
