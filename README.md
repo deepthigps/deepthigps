@@ -1,57 +1,78 @@
 # Hi, I'm Deepthi 👋
 
-I'm a data scientist interested in solving real-world business problems, especially in areas like credit risk, fraud detection, and customer analytics.
+**Data Scientist | Credit Risk • Fraud Detection • Customer Analytics**
 
-This GitHub is where I document my hands-on work using public datasets to explore how data science can support real decision-making.
+I work on data science problems with a focus on real-world decision-making — especially in areas like risk, fraud, and customer behavior.
 
----
-
-## 🚀 What I'm working on
-
-### Credit Risk Underwriting Decision Engine
-
-I'm currently working on a project to estimate default risk and translate it into simple decisions like approve, review, or decline.
-
-Instead of focusing only on model performance, I'm trying to understand how threshold choices affect approvals and risk.
+With a background in engineering and data science, I tend to approach problems not just from a modeling perspective, but from how the solution would actually be used in practice.
 
 ---
 
-### Fraud Detection
+## 🚀 What I’m focused on
 
-Next, I plan to work on fraud detection problems with highly imbalanced data, focusing on precision-recall tradeoffs and reducing false positives.
+* Credit risk modeling and underwriting strategies
+* Fraud detection in highly imbalanced datasets
+* Customer churn and retention analytics
+* Forecasting and business-driven machine learning
 
 ---
 
-### Customer Churn
+## 📌 Featured Projects
 
-I’m also planning a churn analysis project to identify at-risk customers and think through possible retention strategies.
+### 🔹 Credit Risk Underwriting Decision Engine *(In Progress)*
+
+* Estimating default risk and translating it into approve / review / decline decisions
+* Starting with logistic regression and moving to tree-based models
+* Exploring how threshold choices impact approvals and risk
+
+---
+
+### 🔹 Fraud Detection with Imbalanced Data *(Coming Soon)*
+
+* Focusing on precision-recall tradeoffs instead of accuracy
+* Understanding false positives vs false negatives
+* Exploring cost-sensitive decision thresholds
+
+---
+
+### 🔹 Customer Churn & Retention Strategy *(Coming Soon)*
+
+* Identifying at-risk customers
+* Segmenting customers based on behavior
+* Thinking through practical retention strategies
 
 ---
 
 ## 🧠 How I approach problems
 
-I like to start with the business problem first, then:
-
-* understand the data
-* build a simple baseline
-* improve features before jumping to complex models
-
-I try to focus on how models would actually be used, not just how well they perform.
+* Start with the business problem before jumping into modeling
+* Build a simple baseline first
+* Focus on feature engineering before complex models
+* Evaluate models using business-relevant metrics
+* Think through how the model would actually be used
 
 ---
 
-## 🛠️ Tools
+## 🛠️ Tech Stack
 
-Python, SQL, Pandas, Scikit-learn, XGBoost, basic visualization
-
----
-
-## 📫 Connect with me
-
-* LinkedIn: *(add your link here)*
+Python • SQL • Pandas • Scikit-learn • XGBoost • LightGBM
+EDA • Feature Engineering • Model Evaluation • Data Visualization
 
 ---
 
-## ⚠️ Note
+## 📈 Currently Working On
 
-All projects here use public datasets and reflect my independent work to deepen my understanding of practical data science problems.
+* Expanding my portfolio with production-style ML projects focused on decision systems
+* Sharing data science learnings and project insights on LinkedIn
+
+---
+
+## 📫 Let’s Connect
+
+* LinkedIn: https://www.linkedin.com/in/sai-deepthi-g-p-s/
+* GitHub: https://github.com/deepthigps
+
+---
+
+⚠️ Note
+All projects here are independent work using public datasets, inspired by real-world problems in risk, fraud, and analytics.
